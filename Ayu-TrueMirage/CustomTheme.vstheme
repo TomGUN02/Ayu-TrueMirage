@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Ayu-TrueMirage (2)" GUID="{6c9f4804-dec2-4c23-834b-e39b90805179}" BaseGUID="{11b75b0d-1178-4133-9539-e580bcb4a816}">
+  <Theme Name="Ayu-TrueMirage" GUID="{30a33ee0-56ae-46db-9901-1e3b94a8ea99}" BaseGUID="{11b75b0d-1178-4133-9539-e580bcb4a816}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF1F2430" />
@@ -5483,11 +5483,11 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Peek Background">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF1A1F29" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Peek Background Unfocused">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="F5171B23" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Peek History Selected">
