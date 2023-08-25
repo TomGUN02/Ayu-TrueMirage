@@ -10,3 +10,6 @@ Ayu Mirage theme for VS2022 converted from VS Code with some modifications to lo
   
 ![ayu](https://i.imgur.com/qI05PCA.png)
 > WPF XAML compatible
+
+## License
+My Ayu-TrueMirage Theme is released under the [MIT License](LICENSE.txt).
